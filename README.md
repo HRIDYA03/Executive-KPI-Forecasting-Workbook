@@ -39,15 +39,15 @@ The project answers questions such as:
 
 ### Dashboard View 1
 
-![Dashboard 1](Output/Dashboard 1.png)
+![Dashboard 1](Output/Dashboard%201.png)
 
 ### Dashboard View 2
 
-![Dashboard 2](Output/Dashboard 2.png)
+![Dashboard 2](Output/Dashboard%202.png)
 
 ### Dashboard View 3
 
-![Dashboard 3](Output/Dashboard 3.png)
+![Dashboard 3](Output/Dashboard%203.png)
 
 ---
 
